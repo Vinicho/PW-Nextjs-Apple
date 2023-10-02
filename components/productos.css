@@ -1,0 +1,26 @@
+.titulos{
+   
+    text-align: center;
+    font-size: x-large;
+    display: contents;
+}
+.subtitulos{
+    text-align: center;
+    font-weight: normal;
+    font-size: x-large;
+}
+.link{
+    justify-content: center;
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 1vw;
+    padding: 10px;
+    border-color: white;
+
+}
+.container{
+    justify-content: center;
+    display: flex;
+}
+
